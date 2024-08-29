@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DongJinhui/Desktop/ml_platform/mlruns/855435418292338528/932f4bc4466a43f2a636ca2cdf61b505/artifacts
+end_time: 1724917277249
+entry_point_name: ''
+experiment_id: '855435418292338528'
+lifecycle_stage: active
+run_id: 932f4bc4466a43f2a636ca2cdf61b505
+run_name: Logistic Regression
+run_uuid: 932f4bc4466a43f2a636ca2cdf61b505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724917275701
+status: 3
+tags: []
+user_id: DongJinhui

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DongJinhui/Desktop/ml_platform/mlruns/855435418292338528/234b1f44893e4f189967475e86dae7e0/artifacts
+end_time: 1724742922353
+entry_point_name: ''
+experiment_id: '855435418292338528'
+lifecycle_stage: active
+run_id: 234b1f44893e4f189967475e86dae7e0
+run_name: Session Initialized 0e08
+run_uuid: 234b1f44893e4f189967475e86dae7e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724742269663
+status: 3
+tags: []
+user_id: DongJinhui

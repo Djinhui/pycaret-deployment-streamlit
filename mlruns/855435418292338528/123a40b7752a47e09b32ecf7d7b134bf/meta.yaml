@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DongJinhui/Desktop/ml_platform/mlruns/855435418292338528/123a40b7752a47e09b32ecf7d7b134bf/artifacts
+end_time: 1724751343411
+entry_point_name: ''
+experiment_id: '855435418292338528'
+lifecycle_stage: active
+run_id: 123a40b7752a47e09b32ecf7d7b134bf
+run_name: Light Gradient Boosting Machine
+run_uuid: 123a40b7752a47e09b32ecf7d7b134bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724751341740
+status: 3
+tags: []
+user_id: DongJinhui
